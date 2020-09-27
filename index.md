@@ -1,5 +1,11 @@
 ## Welcome to yoichomaru Pages
-todo
-amazon list 
-atcoder 
-signate oauth lda
+
+### 自作コード置き場
+- Latent Direchlet Allocation Model
+- Gaussian Mixture Model 
+
+### 改変コード置き場
+- Spectral Mixture Lernel Model
+- Gaussian Process Latent Variable Model
+
+### ほしいものリスト
